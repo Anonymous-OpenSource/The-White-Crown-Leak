@@ -16,14 +16,10 @@ Just because of his ip flooder appricated everything that you helped me worked o
 i was retarded at first but slowly working my way up again 
 
 # what the tool does?
+It could do alot of things but ive can to it i want to stop everything which i did 
+feel free to use the tool love you all x
 
-i would love to beware of the actual skidded owners beware they might have hwid logs or anytype of it.
-i wouldnt recommend it at all their batch file can be fill with malware
-Buams had help me working on ip to gamertags with whitelist page. which was common sense for the reason.
-ive sent him logs about it then what i wanted from it he was a true guy to come across from tysm
-
-Discord Webhook Flooder made by me 
 IP Flooder made by buam1810
-Gamertag to IP XBOX (only)
+
 
 ![standard (5)](https://user-images.githubusercontent.com/116244645/196858808-a05408d4-22ed-4868-9d26-0e42214bde17.gif)
